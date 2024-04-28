@@ -36,5 +36,5 @@ I'm a passionate web and mobile developer dedicated to crafting high-quality, us
 
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/john-niyontwali-816549111/)
-- [Email](mailto:nijohn0006@gmail.com)
+- Email: [nijohn0006@gmail.com](mailto:nijohn0006@gmail.com)
 - [Website](https://nijohn.dev)
