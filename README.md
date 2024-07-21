@@ -34,6 +34,14 @@ I'm a passionate web and mobile developer dedicated to crafting high-quality, us
 ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-green)
 ![Agile Methodologies](https://img.shields.io/badge/-Agile_Methodologies-blue)
 
+## 📜 Codewars Profile
+
+Practicing on Codewars and working on challenges. My profile is below, and you can also visit my repository where I record challenges not only from Codewars but also from other resources.
+
+![Codewars](https://github.r2v.ch/codewars?user=niyontwali&stroke=%23BB432C)
+
+**DSA Challenges Repo**: [https://github.com/niyontwali/js-daily-dsa-challenges](https://github.com/niyontwali/js-daily-dsa-challenges)
+
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/john-niyontwali-816549111/)
 - Email: [nijohn0006@gmail.com](mailto:nijohn0006@gmail.com)
