@@ -1,4 +1,4 @@
-# 👋 Hi, I'm John Niyontwali
+# 👋 Hi, I'm John
 
 I'm a passionate web and mobile developer dedicated to crafting high-quality, user-friendly applications. With a strong background in JavaScript, I specialize in building scalable web applications using technologies like Node.js, Express, React, and Angular. I also have experience in developing cross-platform mobile apps using React Native and Flutter.
 
