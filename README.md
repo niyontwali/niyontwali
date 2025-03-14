@@ -62,7 +62,7 @@ For over 8 years, I've crafted digital experiences that transform ideas into rea
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-Intermediate-412991?style=for-the-badge&logo=openai)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-Intermediate-FF6F00?style=for-the-badge)
 
-## 🧠 The Mentor's Approach
+### 🧠 The Mentor's Approach
 
 At TechQuest e-Academy, I transform coding concepts into accessible learning adventures. My teaching philosophy centers on:
 
@@ -74,7 +74,7 @@ At TechQuest e-Academy, I transform coding concepts into accessible learning adv
 
 🎬 **[Subscribe to our YouTube channel](https://www.youtube.com/@TechQuest-eAcademy/videos)** and join our growing community of developers transforming coding challenges into career opportunities.
 
-## 🌱 Current Explorations
+### 🌱 Current Explorations
 
 My curiosity currently leads me through:
 - Workflow automation to enhance productivity
@@ -84,11 +84,11 @@ My curiosity currently leads me through:
 - Advanced State Management Patterns
 - Microservices Architecture
 
-## 🧩 Code Contributions
+### 🧩 Code Contributions
 
 The [DSA Challenges Repository](https://github.com/niyontwali/js-daily-dsa-challenges) serves as my contribution to the community—a collection of algorithm solutions with explanations designed to illuminate the reasoning behind each approach.
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 Whether you're seeking development solutions or learning resources, let's start a conversation:
 
