@@ -17,6 +17,7 @@ For over 8 years, I've crafted digital experiences that transform ideas into rea
 ![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-Advanced-777BB4?style=flat-square&logo=php)
+![C#](https://img.shields.io/badge/C%23-Intermediate-239120?style=flat-square&logo=csharp)
 ![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=flat-square&logo=css3)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=postgresql)
@@ -29,6 +30,7 @@ For over 8 years, I've crafted digital experiences that transform ideas into rea
 ![Django](https://img.shields.io/badge/Django-Intermediate-092E20?style=flat-square&logo=django)
 ![Laravel](https://img.shields.io/badge/Laravel-Intermediate-FF2D20?style=flat-square&logo=laravel)
 ![GraphQL](https://img.shields.io/badge/GraphQL-Advanced-E10098?style=flat-square&logo=graphql)
+![.NET Core](https://img.shields.io/badge/.NET_Core-Advanced-512BD4?style=flat-square&logo=dotnet)
 
 #### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat-square&logo=react)
