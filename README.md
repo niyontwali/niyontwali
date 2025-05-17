@@ -13,7 +13,7 @@ For over 8 years, I've crafted digital experiences that transform ideas into rea
 ### 💻 Technical Toolkit
 
 #### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-Advanced-777BB4?style=flat-square&logo=php)
