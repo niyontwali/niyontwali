@@ -99,11 +99,11 @@ My current explorations and continuous learning include:
 - **Infrastructure Optimization**: Reduced AWS costs by 25% through microservices architecture
 - **Mentoring Success**: 100+ developers mentored with industry-leading placement rates
 
-### 🧩 Code Contributions
+### Code Contributions
 
 The [DSA Challenges Repository](https://github.com/niyontwali/js-daily-dsa-challenges) serves as my contribution to the community—a collection of algorithm solutions with explanations designed to illuminate the reasoning behind each approach.
 
-### 📫 Connect With Me
+### Connect With Me
 
 Whether you're seeking development solutions, learning resources, or career mentorship, let's start a conversation:
 
