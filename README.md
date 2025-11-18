@@ -8,10 +8,9 @@
 [![Email](https://img.shields.io/badge/Email-nijohn0001%40gmail.com-red?style=flat-square&logo=gmail)](mailto:nijohn0001@gmail.com)
 
 ### My Journey
+Senior Full-Stack Developer with 8+ years of experience designing and delivering scalable web, mobile, and enterprise applications across healthcare, fintech, e-commerce, government, education, property management, and corporate sectors. My technical journey spans JavaScript/TypeScript ecosystems (React, Node.js, React Native), Python frameworks (FastAPI, Django, Flask), Java Spring Boot, .NET Core with C#, mobile development with Flutter and Dart, and full-stack development with PHP—all built on a strong foundation of modern web standards (HTML5, CSS3) and database technologies (SQL, NoSQL).
 
-Senior Full-Stack Developer with 8+ years of experience designing and delivering scalable web, mobile, and enterprise applications across healthcare, fintech, e-commerce, government, education, property management, and corporate sectors. My journey began with JavaScript, evolved through the mobile revolution with React Native and Flutter, and expanded into Python's versatile ecosystem.
-
-Currently serving as a Part-time Software Engineer Career Mentor at Springboard USA, I've successfully mentored over 100 developers with a 95% mentee satisfaction rate and 85% job placement success. Beyond building applications, I've found my passion in transforming coding concepts into accessible learning adventures through TechQuest e-Academy.
+I currently work at Global Kwik Koders, where we are transforming key Ministry of Health projects alongside their partners. I also serve as a Software Engineering Career Mentor at Springboard USA, where I have mentored over 100 developers, achieving a 95% mentee satisfaction rate and an 85% job placement success rate. Beyond building applications, I am passionate about turning complex coding concepts into engaging learning experiences through TechQuest e-Academy.
 
 ### Technical Toolkit
 
