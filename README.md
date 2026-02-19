@@ -1,6 +1,6 @@
 # 👋 Hi, I'm John Niyontwali
 
-### Senior Full-Stack Developer & Technical Mentor
+### Senior Full-Stack Engineer & Technical Mentor
 
 [![Website](https://img.shields.io/badge/Website-nijohn.dev-brightgreen?style=flat-square&logo=mozilla)](https://nijohn.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/john-niyontwali-816549111/)
@@ -9,22 +9,13 @@
 
 ---
 
-## 🚀 My Journey
+## My Journey
 
-Senior Full-Stack Developer with **8+ years of experience** building scalable web, mobile, and enterprise systems across healthcare, fintech, e-commerce, government, education, and property management.
-
-I work across modern stacks including:
-
-- **Frontend & Mobile:** React, Next.js, Angular, React Native, Flutter  
-- **Backend & APIs:** Node.js, NestJS, FastAPI, Spring Boot, Django, .NET  
-- **Databases:** PostgreSQL, MongoDB, MySQL, Redis  
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD  
-
-Currently contributing to Ministry of Health systems at **Global Kwik Koders** and mentoring developers at **Springboard USA**, supporting 100+ engineers with an **85% job placement rate**.
+Senior Full-Stack Engineer with extensive experience building scalable web applications, mobile applications, and enterprise systems across key global sectors, including Healthcare, Financial Services, E-commerce & Retail, Public Sector (Government), Education, and Real Estate & Property Management.
 
 ---
 
-## 🛠 Technical Toolkit
+## Technical Toolkit
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -56,17 +47,6 @@ Currently contributing to Ministry of Health systems at **Global Kwik Koders** a
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
----
-
-## 🎓 Mentorship Impact
-
-- 100+ developers mentored  
-- 95% mentee satisfaction  
-- 85% job placement rate  
-- Project-based, real-world learning  
-
-🎬 **[Subscribe to TechQuest e-Academy](https://www.youtube.com/@TechQuest-eAcademy/videos)**
 
 ---
 
